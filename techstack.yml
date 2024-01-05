@@ -1,7 +1,8 @@
 repo_name: akasaa101/twitterBFTD
 report_id: 9282717fc8d0f3519ebe5e6ed91d4304
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-28T08:47:46+00:00'
+timestamp: '2024-01-05T08:32:20+00:00'
 requested_by: misterch0c
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/akasaa101/twitterBFTD
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/akasaa101/twitterBFTD
   detection_source: Repo Metadata
